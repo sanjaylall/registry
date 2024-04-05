@@ -1,2 +1,8 @@
 ["0.1.0"]
+julia = "1.0-*"
+LinearAlgebra = "0.1-*"
+PlotKitAxes = "0.1-*"
+PlotKitCairo = "0.1-*"
+PlotKitDiagrams = "0.1-*"
+PlotKitCharts = "0.1-*"
 
