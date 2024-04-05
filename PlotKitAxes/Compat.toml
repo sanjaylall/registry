@@ -1,2 +1,6 @@
 ["0.1.0"]
-julia = "1.0"
+julia = "1.0-*"
+PlotKitCairo = "0.1-*"
+Cairo = "0.1-*"
+LinearAlgebra = "0.1-*"
+
