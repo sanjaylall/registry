@@ -1,4 +1,4 @@
-name = "PlotKitRegistry"
+name = "LocalRegistry"
 uuid = "2a095a9b-8228-41b3-9468-cff43c1b2c98"
 repo = "https://github.com/sanjaylall/registry.git"
 description = "Julia registry."
