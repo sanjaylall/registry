@@ -1,0 +1,5 @@
+name = "PlotKit"
+uuid = "003d7de4-8e60-4dbf-84f8-37f925e78aff"
+author = "Sanjay Lall"
+repo = "https://github.com/bittide/PlotKit.jl.git"
+

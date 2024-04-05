@@ -1,0 +1,12 @@
+name = "PlotKitRegistry"
+uuid = "2a095a9b-8228-41b3-9468-cff43c1b2c98"
+repo = "https://github.com/sanjaylall/registry.git"
+description = "Julia registry."
+
+[packages]
+003d7de4-8e60-4dbf-84f8-37f925e78aff = { name = "PlotKit", path = "PlotKit" }
+d206e830-6474-4927-8e6c-338e8092c5c7 = { name = "PlotKitAxes", path = "PlotKitAxes" }
+7ee0c3d4-a3be-4a4f-8af9-251da1807123 = { name = "PlotKitCairo", path = "PlotKitCairo" }
+64f37de4-b5f6-47b0-be42-d75bd846556a = { name = "PlotKitDiagrams", path = "PlotKitDiagrams" }
+876e3276-866e-4d7d-8cf4-c295b4e7fa09 = { name = "PlotKitCharts", path = "PlotKitCharts" }
+
