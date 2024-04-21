@@ -1,0 +1,4 @@
+name = "PlotKit3D"
+uuid = "71affed6-3314-4d45-8a89-281a91f05348"
+author = "Sanjay Lall"
+repo = "https://github.com/sanjaylall/PlotKit3D.jl.git"
