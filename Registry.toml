@@ -9,4 +9,6 @@ d206e830-6474-4927-8e6c-338e8092c5c7 = { name = "PlotKitAxes", path = "PlotKitAx
 7ee0c3d4-a3be-4a4f-8af9-251da1807123 = { name = "PlotKitCairo", path = "PlotKitCairo" }
 64f37de4-b5f6-47b0-be42-d75bd846556a = { name = "PlotKitDiagrams", path = "PlotKitDiagrams" }
 876e3276-866e-4d7d-8cf4-c295b4e7fa09 = { name = "PlotKitCharts", path = "PlotKitCharts" }
+71affed6-3314-4d45-8a89-281a91f05348 = { name = "PlotKit3D", path = "PlotKit3D" }
+
 
