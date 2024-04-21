@@ -1,4 +1,4 @@
-["0.1.0"]
+["0.1.0-*"]
 julia = "1.0-*"
 PlotKitAxes = "0.1-*"
 PlotKitDiagrams = "0.1-*"
